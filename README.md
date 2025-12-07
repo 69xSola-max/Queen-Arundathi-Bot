@@ -18,6 +18,6 @@ Run these commands one by one in Termux.
 ```bash
 pkg update && pkg upgrade -y
 pkg install nodejs git ffmpeg -y
-git clone <YOUR_GITHUB_REPO_LINK_HERE>
+git clone <https://github.com/69xSola-max/Queen-Arundathi-Bot.git>
 cd queen-arundathi-bot
 npm install
